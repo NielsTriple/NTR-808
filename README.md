@@ -1,13 +1,12 @@
 # NTR-808
 A full emulation (or at least a well attempted try) of the infamous Roland TR-808.
 
-1) About
-2) Knobs and switches
-3) Also included
-4) Extra info
-5) Links that helped me
-6) By me
-
+- About
+- Knobs and switches
+- Also included
+- Extra info
+- Links that helped me
+- By me
 
 1) ABOUT:
 
