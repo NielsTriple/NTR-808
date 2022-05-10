@@ -9,7 +9,8 @@ A full emulation (or at least a well attempted try) of the infamous Roland TR-80
 6: By me
 
 
-1) ABOUT: 
+1) ABOUT:
+
 I've created the NTR-808 to use it myself, so it's tuned to, plugged according to, and looks to my liking.
 I've tried to make it (able to) sound as 1980's and 90's as I could, but it may not sound like the 808 that you want, out of the box. But it can. Probably. 
 As you can see in the flp files, the NTR-808 can do the Geh, do crack, and get high! But most of the knobs are added to create your own sound, so the modern producer can make it bounce as well.
@@ -19,6 +20,7 @@ As for the looks, I hope you'll like the classic red, orange, yellow and white, 
 ---
 
 2) KNOBS AND SWITCHES:
+
 -SideChain
 SideCh.Am: (Sidechain amount) how deep the BD volume should be cut.
 SideCh.Dec: (Sidechain decay) how sharp or fading the cut should be.
@@ -93,6 +95,7 @@ Decay: Lengthen or shorten the decay
 ---
 
 3) ALSO INCLUDED:
+
 Three flp files with classic 808 beats, and 1 with a custom trap(?) beat.
 - NTR-808 can do the Geh
   (Marvin Gaye - Sexual healing)
@@ -106,6 +109,7 @@ Three flp files with classic 808 beats, and 1 with a custom trap(?) beat.
 ---
 
 4) EXTRA INFO:
+
 - Midi port 10: NTR-808 will respond according to GM (General MIDI) Drum Map, in stead of the notes presented in the GUI.
 The original 808 didn't have a MIDI interface, but I've found manuals that said how to add it, and how to map the available sounds accordingly.
 
