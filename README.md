@@ -9,6 +9,8 @@ A full emulation (or at least a well attempted try) of the infamous Roland TR-80
 - Links that helped me
 - By me
 
+---
+
 1) ABOUT:
 
 I've created the NTR-808 to use it myself, so it's tuned to, plugged according to, and looks to my liking.
