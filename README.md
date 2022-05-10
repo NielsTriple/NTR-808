@@ -110,9 +110,9 @@ As for the looks, I hope you'll like the classic red, orange, yellow and white, 
 
 - **Midi port 10:** NTR-808 will respond according to GM (General MIDI) Drum Map, in stead of the notes presented in the GUI. The original 808 didn't have a MIDI interface, but I've found manuals that said how to add it, and how to map the available sounds accordingly.
 **- Audio output:** 
-1 - Every sound has it's own mixer insert. The BD is always on the insert channel selected for Patcher, and SD is one to the right, then the Toms and Conga's, etc.
+-- 1 Every sound has it's own mixer insert. The BD is always on the insert channel selected for Patcher, and SD is one to the right, then the Toms and Conga's, etc.
 So if patcher is on ins. 1, BD is on ins. 1, and SD will be on 2, Toms/Congas on 3, etc. If you don't set Patcher to a specific insert, BD will be on the master, SD will be on ins. 1, Toms/Congas on 2, etc.
-2 - The audio comes out raw and uncompressed. You might need to tame the beast with some compression or limiters (or whatever you use in your fx chain) when you use it. 
+-- 2 The audio comes out raw and uncompressed. You might need to tame the beast with some compression or limiters (or whatever you use in your fx chain) when you use it. 
 - **Automation:** All knobs and sliders can be automated. Right click, and activate button. Right click again and automate away!
 - **Checkboxes:** They do nothing, other than blink. They function as LED, and not as button. Nothing will happen if you select or unselect one.
 - **All FL editions:** All generators and effects used in this patch, are available for all FL editions (SimSynth challenge, anyone?)
