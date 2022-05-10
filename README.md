@@ -23,14 +23,14 @@ As for the looks, I hope you'll like the classic red, orange, yellow and white, 
 
 2) KNOBS AND SWITCHES:
 
-+ SideChain
+**SideChain**
 - SideCh.Am: (Sidechain amount) how deep the BD volume should be cut.
 - SideCh.Dec: (Sidechain decay) how sharp or fading the cut should be.
 - SD switch: Lets the BD be sidechained by the SD.
 - CP switch: Lets the BD be sidechained by the CP.
 - Note: Both can be on, at the same time, and there will be one sidechain signal created.
 
-+ BassDrum
+**BassDrum**
 - C5 + Oct. 1 / Oct. 2 tuned
 - Gain: Volume control
 - Tone: Controls the frequency for lowpass filter
@@ -42,7 +42,7 @@ As for the looks, I hope you'll like the classic red, orange, yellow and white, 
 - Key selecter: Select in which key the BD should play.
 - Note: Key selecter also affects the pitch of the tuned BD octaves 1 and 2.
 
-+ SnareDrum
+**SnareDrum**
 - C#5 + Oct. 3 / Oct. 4 tuned
 - Gain: Volume control
 - Tone: Add or remove tonal part of the snare
@@ -50,21 +50,21 @@ As for the looks, I hope you'll like the classic red, orange, yellow and white, 
 - Decay: Lengthen or shorten the decay
 - Sizzle: Add or remove timbre.
 
-+ HiTom / HiConga + MidTom / MidConga + LowTom / LowConga
+**HiTom / HiConga + MidTom / MidConga + LowTom / LowConga**
 - D5 + D#5 + E5
 - Gain: Volume control
 - Tone: Adjust filter
 - Tuning: Tune the pitch up or down
 - Decay: Lengthen or shorten the decay.
 
-+ RimShot / CLaves
-- F5
+**RimShot / CLaves**
+ - F5
 - Gain: Volume control
 - Tone: Adjust filter
 - Tuning: Tune the pitch up or down
 - Decay: Lengthen or shorten the decay.
 
-+ handClaP / MAracas
+**handClaP / MAracas**
 - F#5
 - Gain: Volume control
 - Tone: Adjust filter
@@ -72,7 +72,7 @@ As for the looks, I hope you'll like the classic red, orange, yellow and white, 
 - Dec.Tail: CP lengthen or shorten the tail, MA decay control
 - Note: if you adjust attack and decay just right, and automate the gain contol, you can create shaker sounds, which the original 808 didn't have.
 
-+ CowBell
+**CowBell**
 - G5 + Oct. 6 / Oct. 7 tuned
 - Gain: Volume control
 - Tone: Adjust bandpass filter
@@ -80,14 +80,14 @@ As for the looks, I hope you'll like the classic red, orange, yellow and white, 
 - Decay: Lengthen or shorten the decay
 - Phase: Phase the L&R channels
 
-+ Cymbal
+**Cymbal**
 - G#5
 - Gain: Volume control
 - Tone: Add whitenoise
 - Tuning: Tune pitch up or down
 - Decay: Lengthen or shorten the decay
 
-+ OpenHihat + ClosedHihat 
+**OpenHihat + ClosedHihat **
 - A5 + A#5
 - Gain: Volume control
 - Tone: Add whitenoise
