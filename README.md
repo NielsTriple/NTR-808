@@ -20,7 +20,7 @@ As for the looks, I hope you'll like the classic red, orange, yellow and white, 
 
 2) KNOBS AND SWITCHES:
 
--SideChain
+- SideChain
 SideCh.Am: (Sidechain amount) how deep the BD volume should be cut.
 SideCh.Dec: (Sidechain decay) how sharp or fading the cut should be.
 SD switch: Lets the BD be sidechained by the SD.
