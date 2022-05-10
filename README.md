@@ -109,7 +109,7 @@ As for the looks, I hope you'll like the classic red, orange, yellow and white, 
 **4) EXTRA INFO:**
 
 - **Midi port 10:** NTR-808 will respond according to GM (General MIDI) Drum Map, in stead of the notes presented in the GUI. The original 808 didn't have a MIDI interface, but I've found manuals that said how to add it, and how to map the available sounds accordingly.
-- Audio output: 
+**- Audio output:** 
 1 - Every sound has it's own mixer insert. The BD is always on the insert channel selected for Patcher, and SD is one to the right, then the Toms and Conga's, etc.
 So if patcher is on ins. 1, BD is on ins. 1, and SD will be on 2, Toms/Congas on 3, etc. If you don't set Patcher to a specific insert, BD will be on the master, SD will be on ins. 1, Toms/Congas on 2, etc.
 2 - The audio comes out raw and uncompressed. You might need to tame the beast with some compression or limiters (or whatever you use in your fx chain) when you use it. 
