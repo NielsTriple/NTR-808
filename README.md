@@ -1,4 +1,5 @@
 # NTR-808
+These files are for Fl-Studio only!
 A full emulation (or at least a well attempted try) of the infamous Roland TR-808.
 
 - About
