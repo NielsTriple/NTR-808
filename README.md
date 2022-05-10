@@ -1,5 +1,5 @@
 # NTR-808
-These files are for Fl-Studio only!
+_These files are for Fl-Studio only!_ 
 A full emulation (or at least a well attempted try) of the infamous Roland TR-808.
 
 - About
@@ -11,7 +11,7 @@ A full emulation (or at least a well attempted try) of the infamous Roland TR-80
 
 ---
 
-1) ABOUT:
+**1) ABOUT:**
 
 I've created the NTR-808 to use it myself, so it's tuned to, plugged according to, and looks to my liking.
 I've tried to make it (able to) sound as 1980's and 90's as I could, but it may not sound like the 808 that you want, out of the box. But it can. Probably. 
@@ -21,7 +21,7 @@ As for the looks, I hope you'll like the classic red, orange, yellow and white, 
 
 ---
 
-2) KNOBS AND SWITCHES:
+**2) KNOBS AND SWITCHES:**
 
 **SideChain**
 - SideCh.Am: (Sidechain amount) how deep the BD volume should be cut.
@@ -87,7 +87,7 @@ As for the looks, I hope you'll like the classic red, orange, yellow and white, 
 - Tuning: Tune pitch up or down
 - Decay: Lengthen or shorten the decay
 
-**OpenHihat + ClosedHihat **
+**OpenHihat + ClosedHihat**
 - A5 + A#5
 - Gain: Volume control
 - Tone: Add whitenoise
@@ -96,7 +96,7 @@ As for the looks, I hope you'll like the classic red, orange, yellow and white, 
 
 ---
 
-3) ALSO INCLUDED:
+**3) ALSO INCLUDED:**
 
 + Three flp files with classic 808 beats, and 1 with a custom trap(?) beat.
 - NTR-808 can do the Geh (Marvin Gaye - Sexual healing).
@@ -106,30 +106,27 @@ As for the looks, I hope you'll like the classic red, orange, yellow and white, 
 
 ---
 
-4) EXTRA INFO:
+**4) EXTRA INFO:**
 
-- Midi port 10: NTR-808 will respond according to GM (General MIDI) Drum Map, in stead of the notes presented in the GUI. The original 808 didn't have a MIDI interface, but I've found manuals that said how to add it, and how to map the available sounds accordingly.
+- **Midi port 10:** NTR-808 will respond according to GM (General MIDI) Drum Map, in stead of the notes presented in the GUI. The original 808 didn't have a MIDI interface, but I've found manuals that said how to add it, and how to map the available sounds accordingly.
 - Audio output: 
 1 - Every sound has it's own mixer insert. The BD is always on the insert channel selected for Patcher, and SD is one to the right, then the Toms and Conga's, etc.
 So if patcher is on ins. 1, BD is on ins. 1, and SD will be on 2, Toms/Congas on 3, etc. If you don't set Patcher to a specific insert, BD will be on the master, SD will be on ins. 1, Toms/Congas on 2, etc.
 2 - The audio comes out raw and uncompressed. You might need to tame the beast with some compression or limiters (or whatever you use in your fx chain) when you use it. 
-- Automation: All knobs and sliders can be automated. Right click, and activate button. Right click again and automate away!
-- Checkboxes: They do nothing, other than blink. They function as LED, and not as button. Nothing will happen if you select or unselect one.
-- All FL editions: All generators and effects used in this patch, are available for all FL editions (SimSynth challenge, anyone?)
+- **Automation:** All knobs and sliders can be automated. Right click, and activate button. Right click again and automate away!
+- **Checkboxes:** They do nothing, other than blink. They function as LED, and not as button. Nothing will happen if you select or unselect one.
+- **All FL editions:** All generators and effects used in this patch, are available for all FL editions (SimSynth challenge, anyone?)
 I've read somewhere that the Fruity edition doesn't come with pianoroll, and I don't know if that's true. If so, you might have to get a bit hacky, but this one is also for the budget beatmakers!
-- Name: I just merged my initials (NT) with the TR.
-- Free: This preset is free, but I've put a lot of time and effort into it. So if you enjoy it, or use it in a release, feel free to buy me a coffee (or a car) ;) 
+- **Name:** I just merged my initials (NT) with the TR.
+- **Free:** This preset is free, but I've put a lot of time and effort into it. So if you enjoy it, or use it in a release, feel free to buy me a coffee (or a car) ;) 
 
 --- 
 
 5) LINKS THAT HELPED ME:
-https://www.researchgate.net/publication/267630051_The_TR-808_Cymbal_a_Physically-Informed_Circuit-Bendable_Digital_Model
-
-https://www.kvraudio.com/product/ts_808_by_tactile_sounds
-
-https://www.musicradar.com/how-to/how-to-recreate-classic-analogue-drum-sounds-in-your-daw-and-with-hardware
-
-https://en.m.wikipedia.org/wiki/General_MIDI#/media/File%3AGM_Standard_Drum_Map_on_the_keyboard.svg
+- https://www.researchgate.net/publication/267630051_The_TR-808_Cymbal_a_Physically-Informed_Circuit-Bendable_Digital_Model
+- https://www.kvraudio.com/product/ts_808_by_tactile_sounds
+- https://www.musicradar.com/how-to/how-to-recreate-classic-analogue-drum-sounds-in-your-daw-and-with-hardware
+- https://en.m.wikipedia.org/wiki/General_MIDI#/media/File%3AGM_Standard_Drum_Map_on_the_keyboard.svg
 
 ---
 
